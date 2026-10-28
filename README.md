@@ -1,6 +1,6 @@
 # Vadim Fomin
 
-ML/NLP engineer since 2016, moving into AI safety research. What drives me is taking a "miracle technology" apart until the miracle breaks down into non-magical parts. What I'm trying now: reading the state of a transformer off its weights, with formal languages as the yardstick.
+ML/NLP engineer since 2016, moving into AI safety research. What drives me is taking a "miracle technology" apart until the miracle breaks down into non-magical parts. What I'm trying now: reading the automaton a transformer has learned — its states and transitions — off its weights, with formal languages as the yardstick.
 
 - **Now:** [Where does a transformer keep its state?](https://wadimiusz.me/nerode/) — an interactive note with a demo. Code: [nerode](https://github.com/wadimiusz/nerode); the model is my own [centigpt](https://github.com/wadimiusz/centigpt).
 - **Before:** AI Safety Camp 2026 ([mossaic-prototype](https://github.com/wadimiusz/mossaic-prototype)), BlueDot's Technical AI Safety course, a master's thesis probing transformer layers ([transformers_discourse_probing](https://github.com/wadimiusz/transformers_discourse_probing)), two first-author papers at Dialogue; ML engineering at ModelFront and Volta Health.
